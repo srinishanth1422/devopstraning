@@ -1,9 +1,0 @@
-name: GitHub Actions Demo #Automate Job
-run-name: ${{ github.actor }} is testing out Github Actions
-on: [push]
-jobs:
-  automate-jobs:
-    runs-on: ubuntu-latest
-    steps:
-      -name: Automate Job
-       run: echo "Welcome to Automate Job"
