@@ -1,0 +1,3 @@
+-Preparation
+-Traning
+-Closing the traning
