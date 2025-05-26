@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -name: Automate Job
-      run: echo "Welcome to Automate Job"
+       run: echo "Welcome to Automate Job"
