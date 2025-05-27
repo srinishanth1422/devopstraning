@@ -14,10 +14,9 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Nishanth - BuildSteps..'
+                echo 'Nishanth - BuildSteps hello..'
             }
         }
     }
 }
-
 
